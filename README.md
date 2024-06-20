@@ -14,6 +14,7 @@ Este proyecto cuenta con un [frontend](https://github.com/AlejandroDova/PuntoDeV
 
 ```
 git clone https://github.com/AlejandroDova/PuntoDeVentaPropinas-back.git
+cd PuntoDeVentaPropinas-back
 ```
 
 ### intalar paquetes
